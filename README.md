@@ -1,5 +1,5 @@
 ### Hi there 👋
-**This is Xiang Gao:hedgehog:**  
+**This is Xiang Gao :hedgehog:**  
 
 - :monkey_face: I am a programmer who uses C/C++ a lot for instrument control and numerical analysis.  
 - :notebook_with_decorative_cover: I am teaching myself CUDA now.  
